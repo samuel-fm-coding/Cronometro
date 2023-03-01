@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(182, 182, 182);
+}
+
+span{
+    font-family: verdana;
+    font-size: 40px;
+}
+
+.master{
+    margin-top:30%;
+    text-align: center;
+}
+
+.btn_exception{
+    margin-top: 1%;
+    font-family: verdana;
+    font-size: 20px;
+    background-color: transparent;
+    border: 2px solid;
+    border-radius: 20px;
+    padding: 10px 10px 10px 10px;
+    
+}
+
+.btn{
+    margin-top: 1%;
+    font-family: verdana;
+    font-size: 20px;
+    background-color: transparent;
+    border: 2px solid;
+    border-radius: 20px;
+    padding: 10px 10px 10px 10px;
+    margin-left: 1%;
+    
+}
+
+.btn:hover{
+    background-color: white;
+    color: black;
+}
+
+.btn_exception:hover{
+    background-color: white;
+    color: black;
+}
