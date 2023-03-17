@@ -20,7 +20,7 @@ function pause() {
 }
 
 function reset(){
-    console.log(milliseconds, seconds, minutes);
+    alert(minutes);
     
     
     pause();
