@@ -20,6 +20,9 @@ function pause() {
 }
 
 function reset(){
+    console.log(milliseconds, seconds, minutes);
+    
+    
     pause();
     
     hour = 0;
