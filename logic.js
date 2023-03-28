@@ -20,9 +20,6 @@ function pause() {
 }
 
 function reset(){
-    alert(teste);
-    
-    
     pause();
     
     hour = 0;
